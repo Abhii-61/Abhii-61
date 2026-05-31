@@ -30,8 +30,8 @@ Passionate about solving real-world problems using data and building impactful m
 
 ## 📌 Featured Projects
 
-### 🛒 Customer Shopping Behavior Analysis
-Customer behavior analysis using Python, SQL and Power BI for business insights.
+### 🎬 Movie Recommendation System
+Recommendation engine using machine learning concepts.
 
 ### 🚢 Titanic Survival Prediction
 Machine learning classification project predicting passenger survival.
@@ -39,8 +39,8 @@ Machine learning classification project predicting passenger survival.
 ### 💳 Loan Default Prediction
 Machine learning model to predict loan default risk.
 
-### 🎬 Movie Recommendation System
-Recommendation engine using machine learning concepts.
+### 🛒 Customer Shopping Behavior Analysis
+Customer behavior analysis using Python, SQL and Power BI for business insights.
 
 ---
 
@@ -54,7 +54,7 @@ Recommendation engine using machine learning concepts.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/yadavabhishek2005/)
+- LinkedIn: https://www.linkedin.com/in/yadavabhishek2005/
 - Email: abhiiyadav933640@gmail.com
 
 ---
