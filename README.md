@@ -47,7 +47,7 @@ Customer behavior analysis using Python, SQL and Power BI for business insights.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhii-61&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhii-61&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
